@@ -1,0 +1,8 @@
+{
+  "name": "herdr-plan-progress",
+  "private": true,
+  "type": "module",
+  "description": "A Herdr mod: live progress of the plan the focused agent is executing",
+  "scripts": { "test": "node --test test/*.test.js" },
+  "license": "MIT"
+}
